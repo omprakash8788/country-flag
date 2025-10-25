@@ -1,4 +1,4 @@
-import flags from "./data/flags.json";
+import flags from "../data/flags.json";
 
 export type CountryCode = keyof typeof flags;
 
