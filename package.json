@@ -12,7 +12,7 @@
   "description": "",
   "main": "dist/cjs/src/getFlagByCode.js",
   "module": "dist/esm/src/getFlagByCode.js",
- 
+  "types": "dist/esm/src/getFlagByCode.d.ts",
   "scripts": {
     "build": "rimraf dist && npm run build:esm && npm run build:cjs",
     "build:esm": "tsc",
