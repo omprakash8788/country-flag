@@ -1,13 +1,21 @@
 {
   "name": "country-flag",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omprakash8788/country-flag"
+  },
+  "bugs": {
+    "url": "https://github.com/omprakash8788/country-flag/issues",
+    "email": "omprakashkumar552@gmail.com"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "omprakash kumar",
   "license": "ISC",
   "type": "commonjs"
 }
